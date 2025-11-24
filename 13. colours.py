@@ -1,0 +1,5 @@
+color=input("Enter the colours:")
+word=color.split()
+print(word)
+print("First word is:",word[0])
+print("Last word is:",word[-1])
